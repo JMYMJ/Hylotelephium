@@ -1,0 +1,14 @@
+001 Ulaz1
+002 medvedak
+003 cudinka
+004 corkova uvala
+005 gulanov vrh
+006 rjecica
+007 uvalica
+008 panos
+009 lugarnica
+010 vreline
+??? rapaljinka
+
+a ddm sensors
+b climate
